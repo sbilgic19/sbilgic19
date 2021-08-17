@@ -1,12 +1,12 @@
 ### Hi there, I am Serkan Berk 👋
 
 - 👀 I’m interested in data science and artificial intelligence.
-- 🌱 I’m learning Python and JS.
+- 🌱 I’m learning .NET.
 - 🔭 I’m currently working on self-development, leadership skills and design thinking.
 - 🤔 I’m looking for help with finding challenging tasks.
 - 💬 I love writing, discussing and teamwork!
 - 📫 How to reach me:<sbilgic19@ku.edu.tr>
-- ⚡ Fun fact: I can make different annoying sounds with my mouth :)
+
 
 <!--
 **sbilgic19/sbilgic19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
