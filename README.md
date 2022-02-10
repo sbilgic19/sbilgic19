@@ -1,7 +1,7 @@
 ### Hi there, I am Serkan Berk 👋
 
 - 👀 I’m interested in data science and artificial intelligence.
-- 🌱 I’m learning .NET.
+- 🌱 I’m learning JavaScript, React.
 - 🔭 I’m currently working on self-development, leadership skills and design thinking.
 - 🤔 I’m looking for help with finding challenging tasks.
 - 💬 I love writing, discussing and teamwork!
