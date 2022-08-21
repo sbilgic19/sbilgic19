@@ -1,7 +1,7 @@
 ### Hi there, I am Serkan Berk 👋
 
 - 👀 I’m interested in data science and artificial intelligence.
-- 🌱 I’m learning JavaScript, React.
+- 🌱 I’m learning JavaScript, React. You can reach my react-portfolio website from here: https://sbilgic19.github.io/serkanberk/
 - 🔭 I’m currently working on self-development, leadership skills and design thinking.
 - 🤔 I’m looking for help with finding challenging tasks.
 - 💬 I love writing, discussing and teamwork!
